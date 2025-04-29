@@ -45,8 +45,8 @@ class Configuration:
 
 config = Configuration() 
 
-config.query_folder_test = './xian/drone'
-config.gallery_folder_test = './xian/satellite'
+config.query_folder_test = './Xian-37/drone'
+config.gallery_folder_test = './Xian-37/satellite'
 
 if __name__ == '__main__':
 
