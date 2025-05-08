@@ -19,6 +19,6 @@ The structure of this dataset is similar to University-1652:
 |       ...
 |       ├── 0037</pre>
 ## Download pre-training weights
-You can download the pre-training weights for the first training stage from the following link:
+You can download the pre-training weights for the first training stage on University-1652 from the following link:
 
 [Google Driver](https://drive.google.com/file/d/1D5wBxH0No2I8KePcxfZFhsF8Gr5PAN8u/view?usp=sharing)
