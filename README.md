@@ -1,5 +1,5 @@
 # <div align="center">BEMN</div>
-This repository contains the dataset and the code for our paper **BEMN: Balanced Bias Enhanced Multi-Branch Networkfor Cross-View Geo-Localization**. Thank you for your kindly attention.
+This repository contains the dataset and the code for our paper **BEMN: Balanced Bias Enhanced Multi-Branch Networkfor Cross-View Geo-Localization**(https://ieeexplore.ieee.org/document/11296889). Thank you for your kindly attention.
 ## Test on Xian-37
 1. Download the model weights trained on University-1652 and place them in the **checkpoint** folder
 2. run eval_xian.py to test the performance of the model on Xian-37
